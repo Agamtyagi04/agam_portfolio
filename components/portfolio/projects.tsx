@@ -21,7 +21,7 @@ const projects = [
   {
     id: 2,
     title: "Health and Wellness Tracker",
-    description: "A web-based health tracking application that allows users to monitor daily activities such as exercise, sleep, water intake, and diet. Features goal setting and graphical visualization of health trends.",
+    description: "The hospital itself is a very successful hospital. Remove the pains. But when there is no resilience to assume the things, is there anyone who succeeds? He runs away from the pain, he runs away from the pains he wants them to provide.",
     image: "/project2img.png",
     tags: ["Python", "Flask", "HTML", "CSS", "JavaScript"],
     color: "bg-secondary",
