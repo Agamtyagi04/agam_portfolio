@@ -56,7 +56,7 @@ export function Hero() {
               className="text-base px-8 py-6 rounded-full border-2"
               asChild
             >
-              <a href="#contact">Get In Touch</a>
+              <a href="/AgamCV.2.pdf" download="Agam Tyagi CV">Download CV</a>
             </Button>
           </div>
         </div>
