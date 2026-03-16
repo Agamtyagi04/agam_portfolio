@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 
 const socialLinks = [
   { icon: Github, href: "https://github.com/Agamtyagi04", label: "GitHub" },
-  { icon: Linkedin, href: "https://www.linkedin.com/in/agamtyagi/", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/agam-tyagi-1965112a2/", label: "LinkedIn" },
 ]
 
 export function Contact() {
