@@ -20,7 +20,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Health and Wellness Tracker",
+    title: "Mercy Dental Hospital",
     description: "The hospital itself is a very successful hospital. Remove the pains. But when there is no resilience to assume the things, is there anyone who succeeds? He runs away from the pain, he runs away from the pains he wants them to provide.",
     image: "/project2img.png",
     tags: ["Python", "Flask", "HTML", "CSS", "JavaScript"],
